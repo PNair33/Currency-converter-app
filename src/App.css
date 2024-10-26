@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: lightblue;
+}
+
+h2 {
+  color: #4CAF50;
+  text-align: center;
+}
+
+input,
+select {
+  width: 100px;
+  padding: 5px;
+  margin: 5px;
+}
+
+button {
+  padding: 5px 10px;
+  margin-top: 10px;
+}
